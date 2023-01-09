@@ -15,7 +15,6 @@ public class C06_ArrayiTekrarsizYapma {
         // output [1,2,3,4]
 
         arr=benzersizYap(arr);
-
         System.out.println(Arrays.toString(arr));
 
         int[] arr2 = {8,8,8,8,9,2,2,2,2};
